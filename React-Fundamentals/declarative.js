@@ -5,7 +5,6 @@
   // In a new car, we can 'declare' to the car to bring down the temperature to 70 degrees, the car will take care of the imperative work.
 
   // Imperative is telling JavaScript HOW to do
-
   const numbers = [1,2,3,4];
   const newNumbers = [];
   for (let i = 0; i < numbers.length; i++) {
