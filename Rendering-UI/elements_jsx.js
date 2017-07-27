@@ -141,3 +141,4 @@ ReactDOM.render(
   document.getElementById('root')
 )
 
+// When building with react, think in components. Durable and reusable componen classes that do one thing. If it manages multiple tasks, refactoring shoulbe considered.
