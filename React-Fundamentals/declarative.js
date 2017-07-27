@@ -11,7 +11,7 @@
   for (let i = 0; i < numbers.length; i++) {
     newNumbers[i] = numbers[i] * 10;
   }
-
+ 
   // Declarative is telling Javascript WHAT to do
   const numbers = [1,2,3,4];
   const newNumbers = numbers.map( value => value * 10);
