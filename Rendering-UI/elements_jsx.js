@@ -142,3 +142,5 @@ ReactDOM.render(
 )
 
 // When building with react, think in components. Durable and reusable componen classes that do one thing. If it manages multiple tasks, refactoring shoulbe considered.
+// Single responsibility principle
+//https://en.wikipedia.org/wiki/Single_responsibility_principle
