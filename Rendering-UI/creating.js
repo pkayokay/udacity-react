@@ -13,3 +13,8 @@
 
 
 // Yarn Package Manager: package manager (an alternative) similar to NPM. 'yarn start' to start the development server.
+
+// More info on create-react-app
+// https://github.com/facebookincubator/create-react-app
+// https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html
+// https://facebook.github.io/react/blog/2017/05/18/whats-new-in-create-react-app.html
